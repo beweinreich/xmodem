@@ -34,7 +34,7 @@ brew install ant git Caskroom/versions/java7 socat lrzsz minicom
 Setup Environment - Ubuntu 16.10
 ---------------------------------
 ```bash
-sudo apt-get install build-essential socat lrzsz minicom ant git
+sudo apt-get install build-essential socat lrzsz minicom ant git repo
 ```
 
 Features
